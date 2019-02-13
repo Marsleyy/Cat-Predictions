@@ -1,0 +1,15 @@
+body{
+    text-align: center;   
+}
+button {
+    width: 80px;
+    height: 40px;
+    border-radius:60px;
+}
+.container{
+    width:400px;
+    padding:10px;
+    margin:50px auto;
+    border: 10px double #1ABC9C;
+    border-radius: 50px;
+}
